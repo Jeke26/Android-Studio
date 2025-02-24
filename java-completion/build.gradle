@@ -5,6 +5,7 @@ plugins {
 apply plugin: 'kotlin-android'
 
 android {
+    namespace "com.tyron.completion.java"
     compileSdk 31
 
     defaultConfig {
