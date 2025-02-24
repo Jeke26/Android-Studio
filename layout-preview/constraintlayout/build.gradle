@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.tyron.layout.constraintlayout"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
