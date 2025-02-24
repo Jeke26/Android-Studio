@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.tyron.layout.cardview"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
