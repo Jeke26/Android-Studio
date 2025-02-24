@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.tyron.layoutpreview"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
