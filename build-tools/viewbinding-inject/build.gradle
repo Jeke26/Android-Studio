@@ -4,6 +4,7 @@ plugins {
 apply plugin: 'kotlin-android'
 
 android {
+    namespace "com.tyron.viewbinding.task"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
