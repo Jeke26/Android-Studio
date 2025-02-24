@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace "com.tyron.code"
+    namespace "io.github.rosemoe.sora2"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
