@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.tyron.layout.appcompat"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
