@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace "com.tyron.completion.xml"
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
